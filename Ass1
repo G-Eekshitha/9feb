@@ -7,4 +7,12 @@ if(a>=b):
     print("a is biggest number")
 else:
     print("b is biggest number")
-    
+ 
+     output
+enter a34
+enter b23
+a is biggest number
+
+enter a23
+enter b23
+a is equal to b
